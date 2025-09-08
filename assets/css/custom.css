@@ -1,12 +1,12 @@
 /* Narrow post content */
 .post .post-content {
-  max-width: 45%;   /* use 0.7 of container */
+  max-width: 40%;   /* use 0.7 of container */
   margin: 0 auto;   /* center it horizontally */
   line-height: 2;  
 }
 
 body.layout-post .post .post-content {
-  max-width: 45%;
+  max-width: 40%;
   margin: 0 auto;
   line-height: 2;  
 }
