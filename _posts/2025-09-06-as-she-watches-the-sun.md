@@ -4,7 +4,7 @@ title: as she watches the sun
 date: 2025-09-07
 description: Probably the best dream I have had and recorded (so I get to replay). Written in 2021.
 tags: writings
-categories: sample-posts
+categories: dream
 ---
 
 I could hear my breaths and footsteps as I rushed downstairs. My shadow followed anxiously as if it was a race. Raindrops tainted the unending stairs, and found their ways into my skin. Behind me, the echoes quietly preyed. *I have to go faster.* 
