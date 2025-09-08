@@ -34,3 +34,13 @@ Somehow, I still recognize the silhouette of my grandmother's back. After all th
 It reminds me of the mountain ridge covered in snow. 
 
 I watch her, as she watches the sun. 
+
+
+
+
+
+
+
+
+
+
