@@ -8,16 +8,3 @@ body.layout-post .post .post-content {
   max-width: 70%;
   margin: 0 auto;
 }
-
-/* Blog page header sizes */
-.header-bar h1 {
-  font-size: 1.8rem;   /* default is ~2.5–3rem, make smaller */
-  font-weight: 600;    /* adjust weight if you want lighter */
-  margin-bottom: 0.3em;
-}
-
-.header-bar h2 {
-  font-size: 1.1rem;   /* smaller subtitle */
-  font-weight: 400;
-  color: #555;         /* softer gray if you want */
-}
