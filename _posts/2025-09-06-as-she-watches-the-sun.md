@@ -2,7 +2,7 @@
 layout: post
 title: as she watches the sun
 date: 2025-09-07
-description: Probably the best dream I have had and recorded. Written in 2021.
+description: Probably the best dream I have had. Recorded in 2021.
 tags: writings
 categories: short
 ---
