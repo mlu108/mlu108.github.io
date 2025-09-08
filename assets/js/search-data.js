@@ -34,7 +34,7 @@ ninja.data = [{
         
           title: "as she watches the sun",
         
-        description: "Probably the best dream I have had and recorded (so I get to replay). Written in 2021.",
+        description: "Probably the best dream I have had and recorded. Written in 2021.",
         section: "Posts",
         handler: () => {
           
