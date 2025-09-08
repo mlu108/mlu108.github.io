@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Photogrammetry & Mixed Reality Research"
+title: "Photogrammetry & Mixed Reality"
 img: assets/img/project_historical_reconstruction.png
 description: "@ MIT IDSS, Documenting Endangered Afghan Heritage Sites Using Photogrammetry and Mixed Reality"
 importance: 4
