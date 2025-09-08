@@ -18,8 +18,8 @@ pagination:
 
 <div class="post">
 
-<h1 style="font-size:32px;">{{ site.blog_name }}</h1>
-<p style="font-size:18px;">{{ site.blog_description }}</p>
+<h1 style="font-size:20px;">{{ site.blog_name }}</h1>
+<p style="font-size:13px;">{{ site.blog_description }}</p>
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 

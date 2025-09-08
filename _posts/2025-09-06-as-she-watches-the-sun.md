@@ -7,7 +7,9 @@ tags: writings
 categories: dream
 ---
 
-I could hear my breaths and footsteps as I rushed downstairs. My shadow followed anxiously as if it was a race. Raindrops tainted the unending stairs, and found their ways into my skin. Behind me, the echoes quietly preyed. *I have to go faster.* 
+I could hear my breaths and footsteps as I rushed downstairs. My shadow followed anxiously as if it was a race. Raindrops tainted the unending stairs, and found their ways into my skin. Behind me, the echoes quietly preyed. 
+
+*I have to go faster.* 
 
 I reached the end of the stairs. The overhead lights overexposed the train station like a cheap film camera - the kind of white light that suffocates, that hurts the glaring witnesses, that only appears on the sky before it rains. Yet, the people in the hallway flared against the whiteness, as everyone was dressed in black. The crowd drifted across the floor in restless patterns, their shadows weaving frantic dances on the stained ground. The echoes ceased chasing my footsteps at that point, seeking every corner of the station to ridicule the people trespassing. 
 
