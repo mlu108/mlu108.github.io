@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Augmented Reality & Robotics Research @ MIT Mechatronics Research Lab"
-description: 
+title: "Augmented Reality & Robotics Research"
+description:  "@ MIT Mechatronics Research Lab"
 img: assets/img/project_mechatronics.png
 importance: 5
 category: main

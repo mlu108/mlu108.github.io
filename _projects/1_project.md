@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Computer Vision Research @ MIT Media Lab Personal Robotics Group"
+title: "EmoLink: Facial and Emotion Perception System" 
 img: assets/img/project_jibo.jpg
-description: "Developed EmoLink: Facial and Emotion Perception System for Displaying Interpersonal Dynamics in Real-World Parent-Child Interactions"
+description: Computer Vision Research @ MIT Media Lab Personal Robotics Group
 importance: 1
 category: main
 ---

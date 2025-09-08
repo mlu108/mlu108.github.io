@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Photogrammetry & Mixed Reality Research @ MIT IDSS"
+title: "Photogrammetry & Mixed Reality Research"
 img: assets/img/project_historical_reconstruction.png
-description: "“Ways of Seeing”: Documenting Endangered Afghan Heritage Sites Using Photogrammetry and Mixed Reality"
+description: "@ MIT IDSS, Documenting Endangered Afghan Heritage Sites Using Photogrammetry and Mixed Reality"
 importance: 4
 category: main
 ---

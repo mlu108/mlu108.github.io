@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Space to Sea @ MIT: Plankton and Nasa Data Processing"
-description: Backend and Frontend Developement
+title: "Plankton and NASA Data Processing"
+description: Backend and Frontend Developement, Space to Sea @ MIT
 img: assets/img/project_marine_nasa.png
 importance: 6
 category: main
@@ -11,6 +11,7 @@ I developed the website for Keith Ellenbogen’s Stellwagen Bank photography exh
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_marine_nasa.png" title="" class="img-fluid rounded z-depth-1" %}
+
         <p>
           <a href="https://space2sea.mit.edu">Space2Sea</a> | 
           <a href="http://vibrantsea.mit.edu/">Vibrant Sea</a>

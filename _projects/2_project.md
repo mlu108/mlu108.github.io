@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Machine Learning Research @ Brown University (NSF-REU)"
-description: "Worked on Project: Adapting NeRF for Low-Latency Reconstruction in VR Teleoperation"
+title: "Adapting NeRF for Low-Latency Reconstruction" # "Machine Learning Research @ Brown University (NSF-REU)"
+description: "Machine Learning Research @ Brown University (NSF-REU)"
 img: assets/img/project_enerf.png
 importance: 2
 category: main
