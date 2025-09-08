@@ -3,7 +3,7 @@ layout: post
 title: as she watches the sun
 date: 2025-09-07
 description: Probably the best dream I have had and recorded (so I get to replay). Written in 2021.
-tags: formatting charts
+tags: writings
 categories: sample-posts
 ---
 
