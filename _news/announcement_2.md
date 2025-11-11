@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Mechanisms of In-Context Syntatic Generalization in Language Models" (WIP) is presented in [NEMI 2025](https://nemiconf.github.io/summer25/) and is accepted to [BlackboxNLP 2025](https://blackboxnlp.github.io/2025/)!
+Our ongoing work "Mechanisms of In-Context Syntatic Generalization in Language Models" is presented in [NEMI 2025](https://nemiconf.github.io/summer25/) and is accepted to [BlackboxNLP 2025](https://blackboxnlp.github.io/2025/)!
