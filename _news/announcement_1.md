@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My two 1st-author papers both have been accepted to EMNLP 2025 Main Conference! So grateful to my most amazing co-authors and mentors 💐 
+My two 1st-author papers both have been accepted to [EMNLP 2025 Main Conference](https://2025.emnlp.org/)! So grateful to my most amazing co-authors and mentors 💐 
