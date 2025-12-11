@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: writings # blog_name will be displayed in your blog page
-blog_description: I really enjoy creative writing, and I write in both English and Chinese. I process memories through writing.
+blog_description: I really enjoy creative writing, and I write in both English and Chinese.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
