@@ -27,6 +27,6 @@ latest_posts:
 ---
 I’m a Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I graduated from Wellesley College with a double major in CS and history. 
 
-I am very passionate about model interpretability and orient my research around three questions: How are aspects of language and world knowledge represented in models? How do models use these representations to generalize? With a better understanding, can we predict model failures and enable better training?
+I am very interested in model interpretability and representation learning. My current research investigates the geometry of model representations, with a focus on understanding how geometric structure supports generalization, whether it can be used to predict model failures, and how these insights can inform more effective training methods.
 
 Outside of research, I enjoy creative writing, chamber music, tennis and reading.
