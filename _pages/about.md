@@ -25,8 +25,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 5 # leave blank to include all the blog posts
 ---
-I’m a second-year Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I graduated from Wellesley College with a double major in CS and history. 
+I’m a Sc.M. student in Computer Science at Brown University, advised by [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Carsten Eickhoff](https://health-nlp.com/). I graduated from Wellesley College with a double major in CS and history. 
 
-I am very passionate about mechanistic interpretability and orient my research around three questions: How are aspects of language and world knowledge represented in models? How do models use these representations to solve tasks and generalize? With a better understanding, can we control and mitigate model errors?
+I am very passionate about model interpretability and orient my research around three questions: How are aspects of language and world knowledge represented in models? How do models use these representations to generalize? With a better understanding, can we predict model failures and enable better training?
 
-Outside of research, I enjoy creative writing, chamber music & tennis.
+Outside of research, I enjoy creative writing, chamber music, tennis and reading.
